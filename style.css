@@ -39,7 +39,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.section__wrapper {
   display: flex;
 }
 
